@@ -13,6 +13,7 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "react-scripts": "latest"
+    "react-scripts": "latest",
+    "eslint-plugin-react-hooks": "^4.6.2"
   }
 }
